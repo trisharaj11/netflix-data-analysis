@@ -10,22 +10,17 @@ Project created entirely in **Google Colab**.
 ## 📂 Project Structure
 
 netflix-data-analysis/
-│── netflix_project.ipynb # Main Jupyter Notebook (full analysis)
-│── netflix_titles.csv # Dataset used for analysis
-│── content_rating_pie.png # Content rating pie chart
-│── movie_dur_hist.png # Movie duration histogram
-│── movies_tv_shows_comp.png # Movie vs TV show genre comparison
-│── movies_vs_tv.png # Movies vs TV shows count
-│── release_year_vs_show.png # Release year trend
-│── top10_countries.png # Top 10 countries producing Netflix content
-│── netflix_project.zip # Compressed version of project files
+ netflix_project.ipynb # Main Jupyter Notebook (full analysis)
+ netflix_titles.csv # Dataset used for analysis
+content_rating_pie.png # Content rating pie chart
+movie_dur_hist.png # Movie duration histogram
+movies_tv_shows_comp.png # Movie vs TV show genre comparison
+movies_vs_tv.png # Movies vs TV shows count
+release_year_vs_show.png # Release year trend
+top10_countries.png # Top 10 countries producing Netflix content
+netflix_project.zip # Compressed version of project files
 
-yaml
-Copy code
-
----
-
-## 📊 Dataset Information
+##📊 Dataset Information
 
 **Dataset:** Netflix Movies and TV Shows Dataset  
 **Source:** Public dataset containing Netflix titles.
